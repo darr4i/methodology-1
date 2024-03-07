@@ -32,3 +32,7 @@ This console application is a Markdown to HTML converter written in Python. Belo
 ## 8. Usage Instructions:
    - If users run the script without providing the required input file, the program displays a usage message instructing users on how to run the script correctly.
 
+
+## Revert commit
+[click on me](https://github.com/darr4i/methodology-1/commit/a2ab62cd6d97fe89371e828d30c2f700bf3ee945)
+
