@@ -1,7 +1,5 @@
 # methodology-1
 
-This console application is a Markdown to HTML converter written in Python. Below is an English description of how the program works:
-
 ## 1. File Reading:
    - The script begins by attempting to open and read the contents of a specified Markdown file (`input_file`) in UTF-8 encoding.
 
