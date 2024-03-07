@@ -26,7 +26,7 @@ This console application is a Markdown to HTML converter written in Python. Belo
 
 ## 7. Command-Line Usage:
    - The script is designed to be run from the command line. Users can provide the input Markdown file as the first argument and optionally specify an output file using the `--out` flag.
-     ![image](https://github.com/darr4i/methodology-1/assets/115396338/8e8d742f-e4e2-4c16-934c-41b9cdd9360c)
+   -  ![image](https://github.com/darr4i/methodology-1/assets/115396338/8e8d742f-e4e2-4c16-934c-41b9cdd9360c)
 
 
 ## 8. Usage Instructions:
